@@ -1,0 +1,19 @@
+{
+  "applinks": {
+      "apps": [],
+      "details": [
+      {
+        "appID": "3ZS995HPD5.com.tms-app.PartyApp",
+        "paths": ["*"]
+      },
+      {
+        "appID": "3ZS995HPD5.com.tms-app.PartyApp.stg",
+        "paths": ["*"]
+      },
+      {
+        "appID": "3ZS995HPD5.com.tms-app.PartyApp.dev",
+        "paths": ["*"]
+      }
+    ]
+  }
+}

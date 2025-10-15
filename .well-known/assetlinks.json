@@ -1,0 +1,38 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.tms_app.party_app",
+            "sha256_cert_fingerprints": [
+                "44:C2:F6:2D:0C:5B:AC:BF:DA:87:05:90:42:17:01:D3:E1:BC:64:6D:92:8C:DD:96:1E:A0:9D:97:98:8B:C1:04"
+            ]
+        }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.tms_app.party_app.dev",
+            "sha256_cert_fingerprints": [
+                "16:79:6A:88:A8:2C:FD:24:11:10:E2:F5:69:5C:C2:A9:B1:00:FC:1B:90:1F:41:33:70:C1:57:93:03:60:BC:52"
+            ]
+        }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.tms_app.party_app.stg",
+            "sha256_cert_fingerprints": [
+                "44:C2:F6:2D:0C:5B:AC:BF:DA:87:05:90:42:17:01:D3:E1:BC:64:6D:92:8C:DD:96:1E:A0:9D:97:98:8B:C1:04"
+            ]
+        }
+    }
+]
